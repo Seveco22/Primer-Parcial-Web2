@@ -1,0 +1,162 @@
+{
+	"info": {
+		"_postman_id": "329a8d64-ae3d-4915-9fbb-3ecfe59add2c",
+		"name": "ProjectPSN",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "33184824"
+	},
+	"item": [
+		{
+			"name": "Index",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:3000/psnetwork",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "3000",
+					"path": [
+						"psnetwork"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Showbyid",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:3000/psnetwork/1",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "3000",
+					"path": [
+						"psnetwork",
+						"1"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Filter",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "Save",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "  { \r\n            \"id\": 6,\r\n            \"Type\": \"11\",\r\n            \"Sub-Type\": \"RPG\",\r\n            \"Name\": \"Final Fantasy\",\r\n            \"Relase-Data\": \"fesafd\",\r\n            \"Price\": 59.99,\r\n            \"version\": 1.1,\r\n            \"Available\": true\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:3000/psnetwork",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "3000",
+					"path": [
+						"psnetwork"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Edit",
+			"request": {
+				"method": "PUT",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"id\": 1,\r\n    \"Type\": \"Videogame\",\r\n    \"Sub-Type\": \"Adventure and Coop\",\r\n    \"Name\": \"Minecraft\",\r\n    \"Relase-Data\": \"01/01/2009\",\r\n    \"Price\": 49,\r\n    \"version\": 8900000,\r\n    \"Available\": true\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:3000/psnetwork/1",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "3000",
+					"path": [
+						"psnetwork",
+						"1"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Uptade All",
+			"request": {
+				"method": "PUT",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"id\": 1,\r\n    \"Type\": \"Videogame\",\r\n    \"Sub-Type\": \"Adventure and Coop\",\r\n    \"Name\": \"Minecraft\",\r\n    \"Relase-Data\": \"01/01/2009\",\r\n    \"Price\": 49,\r\n    \"version\": 8900000,\r\n    \"Available\": true\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:3000/psnetwork/1",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "3000",
+					"path": [
+						"psnetwork",
+						"1"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Delete",
+			"request": {
+				"method": "DELETE",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:3000/psnetwork",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "3000",
+					"path": [
+						"psnetwork"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
