@@ -1,0 +1,34 @@
+10/4/2024, 8:52:44 p. m. [GET] /psnetwork {} {} ::1
+10/4/2024, 8:53:01 p. m. [PUT] /psnetwork/1 {} {"id":6,"Type":"Videogame","Sub-Type":"RPG","Name":"Final Fantasy","Relase-Data":"01/01/2021","Price":89.99,"version":1.1,"Available":true} ::1
+10/4/2024, 8:56:01 p. m. [PUT] /psnetwork/1 {} {"id":6,"Type":"Videogame","Sub-Type":"RPG","Name":"Final Fantasy","Relase-Data":"01/01/2021","Price":89.99,"version":1.8,"Available":true} ::1
+10/4/2024, 8:56:33 p. m. [PUT] /psnetwork/1 {} {"id":1,"Type":"Videogame","Sub-Type":"RPG","Name":"Final Fantasy","Relase-Data":"01/01/2021","Price":89.99,"version":1.8,"Available":true} ::1
+10/4/2024, 8:58:35 p. m. [PUT] /psnetwork/1 {} {"id":1,"Type":"Videogame","Sub-Type":"RPG","Name":"Final Fantasy","Relase-Data":"01/01/2021","Price":89.99,"version":1.8,"Available":true} ::1
+10/4/2024, 9:00:03 p. m. [PUT] /psnetwork/1 {} {"id":1,"Type":"Videogame","Sub-Type":"RPG","Name":"Final Fantasy","Relase-Data":"01/01/2021","Price":89.99,"version":1.8,"Available":true} ::1
+10/4/2024, 9:00:38 p. m. [POST] /psnetwork {} {"id":1,"Type":"Videogame","Sub-Type":"RPG","Name":"Final Fantasy","Relase-Data":"01/01/2021","Price":89.99,"version":1.8,"Available":true} ::1
+10/4/2024, 9:01:35 p. m. [PUT] /psnetwork/1 {} {"id":1,"Type":"Videogame","Sub-Type":"RPG","Name":"Elden Ring","Relase-Data":"01/01/2021","Price":89.99,"version":1.8,"Available":true} ::1
+10/4/2024, 9:02:16 p. m. [PUT] /psnetwork/6 {} {"id":6,"Type":"Videogame","Sub-Type":"RPG","Name":"Persona 5","Relase-Data":"01/01/2021","Price":29.99,"version":1.8,"Available":true} ::1
+10/4/2024, 9:04:57 p. m. [PUT] /psnetwork/update-all {} {"id":1,"Type":"Videogame","Sub-Type":"Adventure and Coop","Name":"Minecraft","Relase-Data":"01/01/2009","Price":49,"version":8900000,"Available":true} ::1
+10/4/2024, 9:05:37 p. m. [PUT] /psnetwork/update-all {} {"id":1,"Type":"Videogame","Sub-Type":"Adventure and Coop","Name":"Minecraft","Relase-Data":"01/01/2009","Price":49,"version":8900000,"Available":true} ::1
+10/4/2024, 9:06:50 p. m. [PUT] /psnetwork/update-all {} {"id":1,"Type":"Videogame","Sub-Type":"Adventure and Coop","Name":"Minecraft","Relase-Data":"01/01/2009","Price":49,"version":8900000,"Available":true} ::1
+10/4/2024, 9:08:55 p. m. [PUT] /psnetwork/update-all {} {"id":1,"Type":"Videogame","Sub-Type":"Adventure and Coop","Name":"Minecraft","Relase-Data":"01/01/2009","Price":49,"version":8900000,"Available":true} ::1
+10/4/2024, 9:09:45 p. m. [GET] /psnetwork/1 {} {} ::1
+10/4/2024, 9:09:47 p. m. [GET] /psnetwork/2 {} {} ::1
+10/4/2024, 9:09:48 p. m. [GET] /psnetwork/3 {} {} ::1
+10/4/2024, 9:09:49 p. m. [GET] /psnetwork/4 {} {} ::1
+10/4/2024, 9:09:49 p. m. [GET] /psnetwork/6 {} {} ::1
+10/4/2024, 9:09:57 p. m. [PUT] /psnetwork/update-all {} {"id":1,"Type":"Videogame","Sub-Type":"Adventure and Coop","Name":"Minecraft","Relase-Data":"01/01/2009","Price":49,"version":8900000,"Available":true} ::1
+10/4/2024, 9:11:09 p. m. [PUT] /psnetwork/update-all {} {"id":1,"Type":"Videogame","Sub-Type":"Adventure and Coop","Name":"Minecraft","Relase-Data":"01/01/2009","Price":49,"version":8900000,"Available":true} ::1
+10/4/2024, 9:12:48 p. m. [PUT] /psnetwork/update-all {} {"id":1,"Type":"Videogame","Sub-Type":"Adventure and Coop","Name":"Minecraft","Relase-Data":"01/01/2009","Price":49,"version":8900000,"Available":true} ::1
+10/4/2024, 9:14:43 p. m. [PUT] /psnetwork/update-all {} {"id":1,"Type":"Videogame","Sub-Type":"Adventure and Coop","Name":"Minecraft","Relase-Data":"01/01/2009","Price":49,"version":8900000,"Available":true} ::1
+10/4/2024, 9:16:33 p. m. [PUT] /psnetwork/update-all {} {"id":1,"Type":"Videogame","Sub-Type":"Adventure and Coop","Name":"Minecraft","Relase-Data":"01/01/2009","Price":49,"version":8900000,"Available":true} ::1
+10/4/2024, 9:25:00 p. m. [PUT] /psnetwork/update-all {} {"id":1,"Type":"Videogame","Sub-Type":"Adventure and Coop","Name":"Minecraft","Relase-Data":"01/01/2009","Price":49,"version":8900000,"Available":true} ::1
+10/4/2024, 9:25:04 p. m. [PUT] /psnetwork/update-all {} {"id":1,"Type":"Videogame","Sub-Type":"Adventure and Coop","Name":"Minecraft","Relase-Data":"01/01/2009","Price":49,"version":8900000,"Available":true} ::1
+10/4/2024, 9:26:04 p. m. [PUT] /psnetwork/update-all/yes {} {"id":1,"Type":"Videogame","Sub-Type":"Adventure and Coop","Name":"Minecraft","Relase-Data":"01/01/2009","Price":49,"version":8900000,"Available":true} ::1
+10/4/2024, 9:27:30 p. m. [PUT] /psnetwork/update-all/yes {} {"id":1,"Type":"Videogame","Sub-Type":"Adventure and Coop","Name":"Minecraft","Relase-Data":"01/01/2009","Price":49,"version":8900000,"Available":true} ::1
+10/4/2024, 9:32:37 p. m. [PUT] /psnetwork/update-all/yes {} {"id":1,"Type":"Videogame","Sub-Type":"Adventure and Coop","Name":"Minecraft","Relase-Data":"01/01/2009","Price":49,"version":8900000,"Available":true} ::1
+10/4/2024, 9:32:54 p. m. [PUT] /psnetwork/update-all/yes {} {"id":1,"Type":"Videogame","Sub-Type":"Adventure and Coop","Name":"Minecraft","Relase-Data":"01/01/2009","Price":49,"version":8900000,"Available":true} ::1
+10/4/2024, 9:32:59 p. m. [PUT] /psnetwork/update-all/yes {} {"id":1,"Type":"Videogame","Sub-Type":"Adventure and Coop","Name":"Minecraft","Relase-Data":"01/01/2009","Price":49,"version":8900000,"Available":true} ::1
+10/4/2024, 9:33:01 p. m. [PUT] /psnetwork/update-all/yes {} {"id":1,"Type":"Videogame","Sub-Type":"Adventure and Coop","Name":"Minecraft","Relase-Data":"01/01/2009","Price":49,"version":8900000,"Available":true} ::1
+10/4/2024, 9:33:03 p. m. [PUT] /psnetwork/update-all/yes {} {"id":1,"Type":"Videogame","Sub-Type":"Adventure and Coop","Name":"Minecraft","Relase-Data":"01/01/2009","Price":49,"version":8900000,"Available":true} ::1
+10/4/2024, 9:37:02 p. m. [GET] /psnetwork?filterBy=Type&value=Videogame {"filterBy":"Type","value":"Videogame"} {} ::1
+10/4/2024, 9:43:53 p. m. [GET] /psnetwork?filterBy=Type&value=Videogame {"filterBy":"Type","value":"Videogame"} {} ::1
